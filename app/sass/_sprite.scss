@@ -1,0 +1,233 @@
+// SCSS variables are information about icon's compiled state, stored under its original file name
+//
+// .icon-home {
+//   width: $icon-home-width;
+// }
+//
+// The large array-like variables contain all information about a single icon
+// $icon-home: x y offset_x offset_y width height total_width total_height image_path;
+//
+// At the bottom of this section, we provide information about the spritesheet itself
+// $spritesheet: width height image $spritesheet-sprites;
+$arw-l-a-name: 'arw-l-a';
+$arw-l-a-x: 139px;
+$arw-l-a-y: 134px;
+$arw-l-a-offset-x: -139px;
+$arw-l-a-offset-y: -134px;
+$arw-l-a-width: 28px;
+$arw-l-a-height: 28px;
+$arw-l-a-total-width: 213px;
+$arw-l-a-total-height: 169px;
+$arw-l-a-image: '../images/sprite.png';
+$arw-l-a: (139px, 134px, -139px, -134px, 28px, 28px, 213px, 169px, '../images/sprite.png', 'arw-l-a', );
+$arw-l-name: 'arw-l';
+$arw-l-x: 73px;
+$arw-l-y: 134px;
+$arw-l-offset-x: -73px;
+$arw-l-offset-y: -134px;
+$arw-l-width: 28px;
+$arw-l-height: 28px;
+$arw-l-total-width: 213px;
+$arw-l-total-height: 169px;
+$arw-l-image: '../images/sprite.png';
+$arw-l: (73px, 134px, -73px, -134px, 28px, 28px, 213px, 169px, '../images/sprite.png', 'arw-l', );
+$arw-r-a-name: 'arw-r-a';
+$arw-r-a-x: 106px;
+$arw-r-a-y: 134px;
+$arw-r-a-offset-x: -106px;
+$arw-r-a-offset-y: -134px;
+$arw-r-a-width: 28px;
+$arw-r-a-height: 28px;
+$arw-r-a-total-width: 213px;
+$arw-r-a-total-height: 169px;
+$arw-r-a-image: '../images/sprite.png';
+$arw-r-a: (106px, 134px, -106px, -134px, 28px, 28px, 213px, 169px, '../images/sprite.png', 'arw-r-a', );
+$arw-r-name: 'arw-r';
+$arw-r-x: 40px;
+$arw-r-y: 134px;
+$arw-r-offset-x: -40px;
+$arw-r-offset-y: -134px;
+$arw-r-width: 28px;
+$arw-r-height: 28px;
+$arw-r-total-width: 213px;
+$arw-r-total-height: 169px;
+$arw-r-image: '../images/sprite.png';
+$arw-r: (40px, 134px, -40px, -134px, 28px, 28px, 213px, 169px, '../images/sprite.png', 'arw-r', );
+$ico-b-1-name: 'ico-b-1';
+$ico-b-1-x: 0px;
+$ico-b-1-y: 0px;
+$ico-b-1-offset-x: 0px;
+$ico-b-1-offset-y: 0px;
+$ico-b-1-width: 59px;
+$ico-b-1-height: 65px;
+$ico-b-1-total-width: 213px;
+$ico-b-1-total-height: 169px;
+$ico-b-1-image: '../images/sprite.png';
+$ico-b-1: (0px, 0px, 0px, 0px, 59px, 65px, 213px, 169px, '../images/sprite.png', 'ico-b-1', );
+$ico-b-2-name: 'ico-b-2';
+$ico-b-2-x: 131px;
+$ico-b-2-y: 0px;
+$ico-b-2-offset-x: -131px;
+$ico-b-2-offset-y: 0px;
+$ico-b-2-width: 52px;
+$ico-b-2-height: 63px;
+$ico-b-2-total-width: 213px;
+$ico-b-2-total-height: 169px;
+$ico-b-2-image: '../images/sprite.png';
+$ico-b-2: (131px, 0px, -131px, 0px, 52px, 63px, 213px, 169px, '../images/sprite.png', 'ico-b-2', );
+$ico-b-3-name: 'ico-b-3';
+$ico-b-3-x: 64px;
+$ico-b-3-y: 0px;
+$ico-b-3-offset-x: -64px;
+$ico-b-3-offset-y: 0px;
+$ico-b-3-width: 62px;
+$ico-b-3-height: 59px;
+$ico-b-3-total-width: 213px;
+$ico-b-3-total-height: 169px;
+$ico-b-3-image: '../images/sprite.png';
+$ico-b-3: (64px, 0px, -64px, 0px, 62px, 59px, 213px, 169px, '../images/sprite.png', 'ico-b-3', );
+$ico-b-4-name: 'ico-b-4';
+$ico-b-4-x: 57px;
+$ico-b-4-y: 70px;
+$ico-b-4-offset-x: -57px;
+$ico-b-4-offset-y: -70px;
+$ico-b-4-width: 63px;
+$ico-b-4-height: 45px;
+$ico-b-4-total-width: 213px;
+$ico-b-4-total-height: 169px;
+$ico-b-4-image: '../images/sprite.png';
+$ico-b-4: (57px, 70px, -57px, -70px, 63px, 45px, 213px, 169px, '../images/sprite.png', 'ico-b-4', );
+$ico-b-5-name: 'ico-b-5';
+$ico-b-5-x: 0px;
+$ico-b-5-y: 70px;
+$ico-b-5-offset-x: 0px;
+$ico-b-5-offset-y: -70px;
+$ico-b-5-width: 52px;
+$ico-b-5-height: 59px;
+$ico-b-5-total-width: 213px;
+$ico-b-5-total-height: 169px;
+$ico-b-5-image: '../images/sprite.png';
+$ico-b-5: (0px, 70px, 0px, -70px, 52px, 59px, 213px, 169px, '../images/sprite.png', 'ico-b-5', );
+$ico-eye-name: 'ico-eye';
+$ico-eye-x: 188px;
+$ico-eye-y: 51px;
+$ico-eye-offset-x: -188px;
+$ico-eye-offset-y: -51px;
+$ico-eye-width: 17px;
+$ico-eye-height: 9px;
+$ico-eye-total-width: 213px;
+$ico-eye-total-height: 169px;
+$ico-eye-image: '../images/sprite.png';
+$ico-eye: (188px, 51px, -188px, -51px, 17px, 9px, 213px, 169px, '../images/sprite.png', 'ico-eye', );
+$ico-flower-name: 'ico-flower';
+$ico-flower-x: 0px;
+$ico-flower-y: 134px;
+$ico-flower-offset-x: 0px;
+$ico-flower-offset-y: -134px;
+$ico-flower-width: 35px;
+$ico-flower-height: 35px;
+$ico-flower-total-width: 213px;
+$ico-flower-total-height: 169px;
+$ico-flower-image: '../images/sprite.png';
+$ico-flower: (0px, 134px, 0px, -134px, 35px, 35px, 213px, 169px, '../images/sprite.png', 'ico-flower', );
+$ico-ph-name: 'ico-ph';
+$ico-ph-x: 188px;
+$ico-ph-y: 0px;
+$ico-ph-offset-x: -188px;
+$ico-ph-offset-y: 0px;
+$ico-ph-width: 25px;
+$ico-ph-height: 26px;
+$ico-ph-total-width: 213px;
+$ico-ph-total-height: 169px;
+$ico-ph-image: '../images/sprite.png';
+$ico-ph: (188px, 0px, -188px, 0px, 25px, 26px, 213px, 169px, '../images/sprite.png', 'ico-ph', );
+$ico-spy-name: 'ico-spy';
+$ico-spy-x: 188px;
+$ico-spy-y: 31px;
+$ico-spy-offset-x: -188px;
+$ico-spy-offset-y: -31px;
+$ico-spy-width: 15px;
+$ico-spy-height: 15px;
+$ico-spy-total-width: 213px;
+$ico-spy-total-height: 169px;
+$ico-spy-image: '../images/sprite.png';
+$ico-spy: (188px, 31px, -188px, -31px, 15px, 15px, 213px, 169px, '../images/sprite.png', 'ico-spy', );
+$ico-tel-name: 'ico-tel';
+$ico-tel-x: 125px;
+$ico-tel-y: 70px;
+$ico-tel-offset-x: -125px;
+$ico-tel-offset-y: -70px;
+$ico-tel-width: 38px;
+$ico-tel-height: 38px;
+$ico-tel-total-width: 213px;
+$ico-tel-total-height: 169px;
+$ico-tel-image: '../images/sprite.png';
+$ico-tel: (125px, 70px, -125px, -70px, 38px, 38px, 213px, 169px, '../images/sprite.png', 'ico-tel', );
+$spritesheet-width: 213px;
+$spritesheet-height: 169px;
+$spritesheet-image: '../images/sprite.png';
+$spritesheet-sprites: ($arw-l-a, $arw-l, $arw-r-a, $arw-r, $ico-b-1, $ico-b-2, $ico-b-3, $ico-b-4, $ico-b-5, $ico-eye, $ico-flower, $ico-ph, $ico-spy, $ico-tel, );
+$spritesheet: (213px, 169px, '../images/sprite.png', $spritesheet-sprites, );
+
+// The provided mixins are intended to be used with the array-like variables
+//
+// .icon-home {
+//   @include sprite-width($icon-home);
+// }
+//
+// .icon-email {
+//   @include sprite($icon-email);
+// }
+//
+// Example usage in HTML:
+//
+// `display: block` sprite:
+// <div class="icon-home"></div>
+//
+// To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+//
+// // CSS
+// .icon {
+//   display: inline-block;
+// }
+//
+// // HTML
+// <i class="icon icon-home"></i>
+@mixin sprite-width($sprite) {
+  width: nth($sprite, 5);
+}
+
+@mixin sprite-height($sprite) {
+  height: nth($sprite, 6);
+}
+
+@mixin sprite-position($sprite) {
+  $sprite-offset-x: nth($sprite, 3);
+  $sprite-offset-y: nth($sprite, 4);
+  background-position: $sprite-offset-x  $sprite-offset-y;
+}
+
+@mixin sprite-image($sprite) {
+  $sprite-image: nth($sprite, 9);
+  background-image: url(#{$sprite-image});
+}
+
+@mixin sprite($sprite) {
+  @include sprite-image($sprite);
+  @include sprite-position($sprite);
+  @include sprite-width($sprite);
+  @include sprite-height($sprite);
+}
+
+// The `sprites` mixin generates identical output to the CSS template
+//   but can be overridden inside of SCSS
+//
+// @include sprites($spritesheet-sprites);
+@mixin sprites($sprites) {
+  @each $sprite in $sprites {
+    $sprite-name: nth($sprite, 10);
+    .#{$sprite-name} {
+      @include sprite($sprite);
+    }
+  }
+}

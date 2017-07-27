@@ -15,6 +15,9 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "fancybox": "^3.1.20",
+    "slick-carousel": "^1.7.0"
   }
 }

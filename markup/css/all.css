@@ -1,0 +1,27 @@
+body {
+  background: #fff;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 14px;
+}
+
+.logo {
+  float: left;
+  display: block;
+}
+
+.header {
+  padding-top: 20px;
+}
+
+.head-seo {
+  padding-left: 34px;
+  float: left;
+  padding-top: 35px;
+}
+
+.head-seo strong {
+  display: block;
+  font-weight: 500;
+  color: #d10e55;
+  font-size: 18px;
+}
